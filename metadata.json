@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 宝可梦大乱斗",
+  "description": "一个精致的回合制精灵对战游戏，支持动态战斗、精灵切换，并由 Google Gemini 提供 AI 战斗解说。",
+  "requestFramePermissions": []
+}
