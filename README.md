@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- 项目 Logo (如果没有 Logo，可以用一个巨大的 Emoji 代替，例如 ⚔️ 或 🐲) -->
-<img src="https://via.placeholder.com/150x150?text=Logo" alt="Logo" width="120" height="120">
 
 # ⚔️ Pocket Battle Arena | 口袋大作战
 
@@ -43,7 +42,6 @@
 
 | 🔥 激烈的战斗系统 | 📊 动态 UI 交互 |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/400x250/222/fff?text=Battle+Scene+GIF" width="100%"> | <img src="https://via.placeholder.com/400x250/333/fff?text=Menu+UI+GIF" width="100%"> |
 | *实时伤害计算与动画反馈* | *流畅的技能选择与状态显示* |
 
 </div>
@@ -91,5 +89,5 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/your-username/pocket-battle.git
-cd pocket-battle
+git clone https://github.com/whw103469/Pokk-n-Tournament.git
+cd Pokk-n-Tournament
